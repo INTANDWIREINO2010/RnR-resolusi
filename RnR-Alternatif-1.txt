@@ -1,9 +1,9 @@
 Target akhir tahun
-- pelajari big data
-- bisness analytics expert
-- machine learning
-- artificial intelligence enginer
-- data science with python (https://docs.python.org/3.7/tutorial/appetite.html)
+- pelajari big data target 2020
+- bisness analytics expert target 2020
+- machine learning target 2020
+- artificial intelligence enginer target 2020
+- data science with python target 2020 (https://docs.python.org/3.7/tutorial/appetite.html)
 
 Target TOEFL
 - http://id.make-it-in-germany.com/

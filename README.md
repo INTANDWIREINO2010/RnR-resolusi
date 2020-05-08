@@ -1,2 +1,0 @@
-# RnR-resolusi
-RNR Corner
